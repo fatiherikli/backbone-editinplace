@@ -1,0 +1,11 @@
+{
+  "name": "fatiherikli/backbone-editinplace",
+  "version": "1.0.0",
+  "description": "Edit in place functionality for backbone models",
+  "ignore": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
